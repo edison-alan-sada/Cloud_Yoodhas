@@ -1,2 +1,4 @@
 # Cloud_Yoodhas
-hehehe, thuis is the first repo of our team.
+hehehe, this is the first repo of our team.
+
+The team membera re atulya, anjali, akash, edison and naveen
